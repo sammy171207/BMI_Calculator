@@ -12,3 +12,4 @@
 <ul>Input for weight and height</ul>
 <ul>Instant BMI calculation</ul>
 <ul> Interpretation of BMI with standard categori</ul>
+<h3>Demo Link:</h3>https://sammy171207.github.io/BMI_Calculator/
